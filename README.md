@@ -11,9 +11,6 @@ I'm facing some abnormal situation so getting enough motivation for learning the
 
 ### Test the scratch project
 
-[deployment]
-https://facebook.github.io/todo-list/public/index.html
-or
-https://facebook.github.io/todo-list/
+[deployment] is at https://Mr-vabs.github.io/todo-list/
 
 #### Thank You !
