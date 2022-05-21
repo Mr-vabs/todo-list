@@ -2,7 +2,10 @@
 
 ## Started learning React
 
-In the project directory, I've changed some lines of official basic react app and learned to deploy it. I know it sounds awkward that instead of learning and building more why I've deployed the some line changes.
+In the project directory,
+- I've changed some lines of official basic react app.
+- learned to deploy it.
+I know it sounds awkward that instead of learning and building more why I've deployed the some line changes.
 
 
 ### Answer is,
@@ -11,6 +14,6 @@ I'm facing some abnormal situation so getting enough motivation for learning the
 
 ### Test the scratch project
 
-[deployment] is at https://Mr-vabs.github.io/todo-list/
+Deployment : [deployed](https://Mr-vabs.github.io/todo-list/)
 
 #### Thank You !
